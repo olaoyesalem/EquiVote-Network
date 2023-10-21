@@ -1,0 +1,5 @@
+2 Types of Governance
+
+1.) On-Chain Governance: More Tooling and More Gas
+2.) Off- chain (Database + Oracle): Less Tooling : They Vote anad they send all in one txn to tyhe blockchain using 
+and oracle. Cheaper Gas
