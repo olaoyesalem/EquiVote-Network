@@ -9,3 +9,5 @@ and oracle. Cheaper Gas
 the max supply is 1 million of the token.
 
 while creating the Rwadme talk about the component of the DAO. Written in the book
+
+the function m,ints
