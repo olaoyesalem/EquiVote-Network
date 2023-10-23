@@ -7,9 +7,10 @@ import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Permit.sol";
 contract EquiToken is ERC20Votes{
 
 uint256  public s_maxSupply = 1e24;   // 1 million EquiTokens
-constructor ("EquiToken","EQT") 
+constructor(string name , string symbol) 
 ERC20("EquiToken","EQT")
 ERC20Permit("EquiToken")
+
 {
 
 }
