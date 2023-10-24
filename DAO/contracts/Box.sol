@@ -9,7 +9,6 @@ import "@openzeppelin/contracts/access/Ownable.sol";
     @notice  This Box contract is the target contract that we vote on.
 */
 
-
 contract Box is Ownable{
 
 constructor(address _address ) Ownable( _address){

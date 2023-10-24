@@ -14,9 +14,9 @@ ERC20Permit("EquiToken")
 {
 
 }
+
   
-
-
+    // the bugs started from here down
   // The following functions are overrides required by solidity
 
   function _afterTokenTransfer(address _from , address  _to, uint256 amount)internal override(ERC20Votes){
